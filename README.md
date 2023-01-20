@@ -1,7 +1,7 @@
 # Clustering_Vehicle_data
 
 This repository includes modified data and source code used in the paper "On the application of clustering for extracting driving scenarios from vehicle data
-",  submitted and under review to the journal "Machine Learning with Applications".
+",  submitted to the journal "Machine Learning with Applications".
 
 # Paper summary
 If we want to extract test cases from driving data with the purpose of testing vehicles, we want to avoid using similar test cases. In this paper, we focus on this topic. We provide a method for extracting driving episodes from data utilizing clustering algorithms. This method starts with clustering driving data. Afterward, data points representing time-ordered sequences
